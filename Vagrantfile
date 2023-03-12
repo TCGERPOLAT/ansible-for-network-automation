@@ -1,7 +1,7 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
-Vagrant.require_version ">= 1.6.0"
+Vagrant.require_version ">= 2.3.4"
 
 boxes = [
 
